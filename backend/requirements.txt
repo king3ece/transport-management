@@ -1,0 +1,6 @@
+fastapi[standard]==0.140.0
+sqlalchemy==2.0.51
+pydantic-settings==2.14.2
+bcrypt==5.0.0
+python-jose[cryptography]==3.5.0
+psycopg[binary]==3.3.4
